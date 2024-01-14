@@ -17,6 +17,7 @@ public class Q26 {
             System.out.print(binaryArray[i]);
         }
         System.out.println();
+        scanner.close();
     }
 
     public static int[] convertToBinaryArray(int decimalNumber) {
